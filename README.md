@@ -1,7 +1,7 @@
 # 2nd-ML100Days_Marathon
 
+![image.png](attachment:https://az796311.vo.msecnd.net/userupload/48d4e6fde27c421a8b1f6749e62b0c93.jpg)
 
-[https://az796311.vo.msecnd.net/userupload/48d4e6fde27c421a8b1f6749e62b0c93.jpg]
 
 
 - [/ 第 2 屆 / 機器學習 百日馬拉松](https://ai100-2.cupoy.com/)
