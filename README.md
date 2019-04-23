@@ -1,10 +1,8 @@
 # 2nd-ML100Days_Marathon
 
-![百日馬拉松](https://i.imgur.com/zI10zj5.png)
-
-
-
 - [/ 第 2 屆 / 機器學習 百日馬拉松](https://ai100-2.cupoy.com/)
+
+![百日馬拉松](https://i.imgur.com/zI10zj5.png)
 
 
 - ## 資料清理數據前處裡
