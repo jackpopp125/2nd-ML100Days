@@ -1,5 +1,9 @@
 # 2nd-ML100Days_Marathon
 
+
+(https://az796311.vo.msecnd.net/userupload/48d4e6fde27c421a8b1f6749e62b0c93.jpg)
+
+
 - [/ 第 2 屆 / 機器學習 百日馬拉松](https://ai100-2.cupoy.com/)
 
 1. [資料介紹與評估資料](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_001_HW/Day_001_HW.ipynb)
