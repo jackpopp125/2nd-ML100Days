@@ -13,5 +13,6 @@
 4. [EDA: 欄位的資料類型介紹及處理](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_004_HW/Day_004_HW.ipynb)
 5. [EDA資料分佈](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_005_HW/Day_005_HW.ipynb)
 6. [EDA: Outlier 及處理](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_006_HW/Day_006_HW.ipynb)
+7. [常用的數值取代：中位數與分位數連續數值標準化](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_007_HW/Day_007_HW.ipynb)
 
 - ## 資料科學特徵工程技術
