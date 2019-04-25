@@ -12,6 +12,6 @@
 3. [3-1如何新建一個 dataframe?3-2 如何讀取其他資料? (非 csv 的資料)](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_003_HW/Day_003_HW.ipynb)
 4. [EDA: 欄位的資料類型介紹及處理](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_004_HW/Day_004_HW.ipynb)
 5. [EDA資料分佈](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_005_HW/Day_005_HW.ipynb)
-6. EDA: Outlier 及處理
+6. [EDA: Outlier 及處理](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_006_HW/Day_006_HW.ipynb)
 
 - ## 資料科學特徵工程技術
