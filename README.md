@@ -18,6 +18,8 @@
 9. [程式實作 EDA: correlation/相關係數簡介](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_009_HW/Day_009_HW.ipynb)
 10. [EDA from Correlation](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_010_HW/Day_010_HW.ipynb)
 
+11. [EDA from Correlation](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_011_HW/Day_011_HW.ipynb)
+
 - ## 資料科學特徵工程技術
 
 
