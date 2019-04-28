@@ -30,4 +30,4 @@
 
 
 - ## Tricks
-[QA](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Tricks/ML100_Tricks.ipynb)
+[Tricks](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Tricks/ML100_Tricks.ipynb)
