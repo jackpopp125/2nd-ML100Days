@@ -14,5 +14,7 @@
 5. [EDA資料分佈](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_005_HW/Day_005_HW.ipynb)
 6. [EDA: Outlier 及處理](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_006_HW/Day_006_HW.ipynb)
 7. [常用的數值取代：中位數與分位數連續數值標準化](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_007_HW/Day_007_HW.ipynb)
+8. [DataFrame operationData frame merge/常用的 DataFrame 操作](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_008_HW/Day_008_HW.ipynb)
+9. [程式實作 EDA: correlation/相關係數簡介](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_009_HW/Day_009_HW.ipynb)
 
 - ## 資料科學特徵工程技術
