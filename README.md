@@ -19,3 +19,15 @@
 10. [EDA from Correlation](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_010_HW/Day_010_HW.ipynb)
 
 - ## 資料科學特徵工程技術
+
+
+
+
+
+
+- ## QA
+[QA](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/QA/ML100_QA.ipynb)
+
+
+- ## Tricks
+[QA](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Tricks/ML100_Tricks.ipynb)
