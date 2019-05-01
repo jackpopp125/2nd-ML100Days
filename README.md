@@ -20,7 +20,10 @@
 
 ------------------------------------------
 
-11. [EDA from Correlation](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_011_HW/Day_011_HW.ipynb)
+11. [EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE)](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_011_HW/Day_011_HW.ipynb)
+12. [EDA: 把連續型變數離散化](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_012_HW/Day_012_HW.ipynb)
+13. [程式實作 把連續型變數離散化](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_013_HW/Day_013_HW.ipynb)
+14. [Subplots](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_014_HW/Day_014_HW.ipynb)
 
 - ## 資料科學特徵工程技術
 
