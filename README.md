@@ -36,6 +36,7 @@
 
 ![image](https://ai100-fileentity.cupoy.com/2nd/homework/D17/1556779129615/large)
 
+18. [特徵類型](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_018_HW/Day_018_HW.ipynb)
 
 
 
