@@ -25,13 +25,16 @@
 13. [程式實作 把連續型變數離散化](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_013_HW/Day_013_HW.ipynb)
 14. [Subplots](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_014_HW/Day_014_HW.ipynb)
 15. [Heatmap & Grid-plot](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_015_HW/Day_015_HW.ipynb)
-
-
-
+16. [模型初體驗 Logistic Regression](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_016_HW/Day_016_HW.ipynb)
 
 
 - ## 資料科學特徵工程技術
 
+17.
+
+### [知乎-特徵工程到底是什麼](https://www.zhihu.com/question/29316149)
+
+![image](https://ai100-fileentity.cupoy.com/2nd/homework/D17/1556779129615/large)
 
 
 
