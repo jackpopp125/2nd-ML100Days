@@ -30,7 +30,7 @@
 
 - ## 資料科學特徵工程技術
 
-17.
+17. [特徵工程簡介](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_017_HW/Day_017_HW.ipynb)
 
 ### [知乎-特徵工程到底是什麼](https://www.zhihu.com/question/29316149)
 
