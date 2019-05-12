@@ -30,6 +30,11 @@
 
 - ## 資料科學特徵工程技術
 
+17.
+
+### [知乎-特徵工程到底是什麼](https://www.zhihu.com/question/29316149)
+
+![image](https://ai100-fileentity.cupoy.com/2nd/homework/D17/1556779129615/large)
 
 
 
