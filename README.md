@@ -38,6 +38,9 @@
 
 18. [特徵類型](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_018_HW/Day_018_HW.ipynb)
 
+19. [數值型特徵-補缺失值與標準化](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_019_HW/Day_019_HW.ipynb)
+
+![image](https://ai100-fileentity.cupoy.com/2nd/homework/D19/1556780749687/large)
 
 
 
