@@ -42,6 +42,9 @@
 
 ![image](https://ai100-fileentity.cupoy.com/2nd/homework/D19/1556780749687/large)
 
+20. [數值型特徵 - 去除離群值](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_020_HW/Day_020_HW.ipynb)
+
+
 
 
 - ## QA
