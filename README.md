@@ -44,7 +44,12 @@
 
 20. [數值型特徵 - 去除離群值](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_020_HW/Day_020_HW.ipynb)
 
+21. [數值型特徵 - 去除偏態](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_021_HW/Day_021_HW.ipynb)
 
+
+22. [類別型特徵 - 基礎處理]
+
+![image.png](attachment:image.png)
 
 
 - ## QA
