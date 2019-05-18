@@ -47,9 +47,8 @@
 21. [數值型特徵 - 去除偏態](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_021_HW/Day_021_HW.ipynb)
 
 
-22. [類別型特徵 - 基礎處理]
+22. [類別型特徵 - 基礎處理](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_022_HW/Day_022_HW.ipynb)
 
-![image.png](attachment:image.png)
 
 
 - ## QA
