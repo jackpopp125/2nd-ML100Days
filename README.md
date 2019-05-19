@@ -49,6 +49,7 @@
 
 22. [類別型特徵 - 基礎處理](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_022_HW/Day_022_HW.ipynb)
 
+23. [類別型特徵 - 均值編碼](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_023_HW/Day_023_HW.ipynb)
 
 
 - ## QA
