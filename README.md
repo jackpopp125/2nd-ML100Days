@@ -54,6 +54,12 @@
 24. [類別型特徵 - 其他進階處理](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_024_HW/Day_024_HW.ipynb)
 要先做計數編碼，才能做雜湊編碼啊！
 
+25. [時間型特徵](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_025_HW/Day_025_HW.ipynb)
+
+
+
+
+
 - ## QA
 [QA](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/QA/ML100_QA.ipynb)
 
