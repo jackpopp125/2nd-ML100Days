@@ -52,7 +52,7 @@
 23. [類別型特徵 - 均值編碼](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_023_HW/Day_023_HW.ipynb)
 
 24. [類別型特徵 - 其他進階處理](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_024_HW/Day_024_HW.ipynb)
-要先做計數編碼，才能做雜湊編碼＆均值編碼啊！
+要先做計數編碼，才能做雜湊編碼啊！
 
 - ## QA
 [QA](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/QA/ML100_QA.ipynb)
