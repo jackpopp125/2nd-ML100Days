@@ -56,6 +56,10 @@
 
 25. [時間型特徵](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_025_HW/Day_025_HW.ipynb)
 
+26. [特徵組合 - 數值與數值組合](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_026_HW/Day_026_HW.ipynb)
+
+
+
 
 
 
