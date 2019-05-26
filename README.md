@@ -89,7 +89,8 @@
 
 - ## 3. 機器學習基礎模型建立
 
-31. [機器學習概論]
+31. [機器學習概論](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_031_HW/Day_031_HW.ipynb)
+
 
 
 
