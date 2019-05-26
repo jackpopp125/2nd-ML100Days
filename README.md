@@ -91,7 +91,7 @@
 
 31. [機器學習概論](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_031_HW/Day_031_HW.ipynb)
 
-
+32. [機器學習-流程與步驟](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_032_HW/Day_032_HW.ipynb)
 
 
 ------------------------------------------
