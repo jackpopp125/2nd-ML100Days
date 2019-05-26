@@ -40,7 +40,7 @@
 
 ------------------------------------------
 
-- ## 資料科學特徵工程技術
+- ## 2. 資料科學特徵工程技術
 
 17. [特徵工程簡介](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_017_HW/Day_017_HW.ipynb)
 
@@ -84,6 +84,14 @@
 - Permutation Importance
 
 30. [分類型特徵優化 - 葉編碼](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_030_HW/Day_030_HW.ipynb)
+
+------------------------------------------
+
+- ## 3. 機器學習基礎模型建立
+
+31. [機器學習概論]
+
+
 
 ------------------------------------------
 
