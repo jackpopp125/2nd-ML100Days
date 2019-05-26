@@ -52,14 +52,24 @@
 23. [類別型特徵 - 均值編碼](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_023_HW/Day_023_HW.ipynb)
 
 24. [類別型特徵 - 其他進階處理](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_024_HW/Day_024_HW.ipynb)
-要先做計數編碼，才能做雜湊編碼啊！
 
 25. [時間型特徵](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_025_HW/Day_025_HW.ipynb)
 
 26. [特徵組合 - 數值與數值組合](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_026_HW/Day_026_HW.ipynb)
 
+27. [特徵組合 - 類別與數值組合 - 群聚編碼](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_027_HW/Day_027_HW.ipynb)
+- 群聚編碼與之前的均值編碼最主要的差異，一個是特徵彼此之間與特徵⽬標值之間的差異，
+- 另一個最⼤的差異是 : 群聚編碼因為與目標值無關，因此不容易 Overfitting，也因此比均值編碼使⽤頻率高得多
 
 
+28. [特徵選擇 F.E.](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_028_HW/Day_028_HW.ipynb)
+- 過濾法 (Filter) : 選定統計數值與設定⾨門檻，刪除低於⾨門檻的特徵 --- 相關係數過濾法
+- 包裝法 (Wrapper) : 根據⽬目標函數，逐步加入特徵或刪除特徵
+- 嵌入法 (Embedded) : 使⽤用機器學習模型，根據擬合後的係數，刪除係數低於⾨門檻的特徵 --- L1(Lasso)嵌入法，GDBT(梯度提升樹)嵌入法
+
+29. [特徵評估](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_029_HW/Day_029_HW.ipynb)
+- Feature Importance
+- Permutation Importance
 
 
 
