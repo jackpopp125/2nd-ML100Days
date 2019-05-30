@@ -96,6 +96,7 @@
 33. [機器如何學習](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_033_HW/Day_033_HW.ipynb)
 
 
+34. [訓練/測試集切分的概念](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_034_HW/Day_034_HW.ipynb) <font color='dodgerblue'>精靈寶可夢 進化CP值預測</font> 
 ------------------------------------------
 
 - ## QA
