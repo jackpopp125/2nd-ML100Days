@@ -106,6 +106,15 @@
 - Precision, Recall, F1 score, ROC AUC
 - MAE, MSE, R-squared
 
+37. [regression model 介紹 - 線性迴歸/羅吉斯回歸](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_037_HW/Day_037_HW.ipynb)
+
+38. [regression model 程式碼撰寫](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_038_HW/Day_038_HW.ipynb)
+- from sklearn.model_selection import cross_val_score
+- import warnings
+  warnings.filterwarnings('ignore')
+  
+![img](https://github.com/trekhleb/homemade-machine-learning/blob/master/images/machine-learning-map.png?raw=true)
+
 
 
 ------------------------------------------
