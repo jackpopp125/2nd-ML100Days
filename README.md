@@ -115,6 +115,7 @@
   
 ![img](https://github.com/trekhleb/homemade-machine-learning/blob/master/images/machine-learning-map.png?raw=true)
 
+39. [regression model 介紹 - LASSO 回歸/ Ridge 回歸](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_039_HW/Day_039_HW.ipynb)
 
 
 ------------------------------------------
