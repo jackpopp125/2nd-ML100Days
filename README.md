@@ -104,7 +104,7 @@
 
 36. [評估指標選定/evaluation metrics](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_036_HW/Day_036_HW.ipynb)
 - Precision, Recall, F1 score, ROC AUC
-- MAE, MSE, R-squared
+- MAE, MSE, R-squared, RMSE
 
 37. [regression model 介紹 - 線性迴歸/羅吉斯回歸](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_037_HW/Day_037_HW.ipynb)
 
