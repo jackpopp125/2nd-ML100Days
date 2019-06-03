@@ -117,6 +117,9 @@
 
 39. [regression model 介紹 - LASSO 回歸/ Ridge 回歸](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_039_HW/Day_039_HW.ipynb)
 
+40. [regression model 程式碼撰寫](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_040_HW/Day_040_HW.ipynb)
+
+41. [tree based model - 決策樹 (Decision Tree) 模型介紹](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_041_HW/Day_041_HW.ipynb)
 
 ------------------------------------------
 
