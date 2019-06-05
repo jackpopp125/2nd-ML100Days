@@ -121,6 +121,8 @@
 
 41. [tree based model - 決策樹 (Decision Tree) 模型介紹](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_041_HW/Day_041_HW.ipynb)
 
+42. [tree based model - 決策樹程式碼撰寫](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_042_HW/Day_042_HW.ipynb)
+
 ------------------------------------------
 
 - ## QA
