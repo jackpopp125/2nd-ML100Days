@@ -104,7 +104,7 @@
 
 36. [評估指標選定/evaluation metrics](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_036_HW/Day_036_HW.ipynb)
 - Precision, Recall, F1 score, ROC AUC
-- MAE, MSE, R-squared
+- MAE, MSE, R-squared, RMSE
 
 37. [regression model 介紹 - 線性迴歸/羅吉斯回歸](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_037_HW/Day_037_HW.ipynb)
 
@@ -117,6 +117,9 @@
 
 39. [regression model 介紹 - LASSO 回歸/ Ridge 回歸](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_039_HW/Day_039_HW.ipynb)
 
+40. [regression model 程式碼撰寫](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_040_HW/Day_040_HW.ipynb)
+
+41. [tree based model - 決策樹 (Decision Tree) 模型介紹](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_041_HW/Day_041_HW.ipynb)
 
 ------------------------------------------
 
