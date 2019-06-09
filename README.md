@@ -135,6 +135,7 @@
 
 - ## 4. 機器學習調整參數
 
+47. [超參數調整與優化](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_047_HW/Day_047_HW.ipynb)
 
 
 
