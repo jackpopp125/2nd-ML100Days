@@ -127,6 +127,17 @@
 
 44. [tree based model - 隨機森林程式碼撰寫](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_044_HW/Day_044_HW.ipynb)
 
+45. [tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_045_HW/Day_045_HW.ipynb)
+
+46. [tree based model - 梯度提升機程式碼撰寫](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_046_HW/Day_046_HW.ipynb)
+
+------------------------------------------
+
+- ## 4. 機器學習調整參數
+
+
+
+
 
 
 ------------------------------------------
