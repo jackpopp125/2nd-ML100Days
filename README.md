@@ -137,6 +137,12 @@
 
 47. [超參數調整與優化](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_047_HW/Day_047_HW.ipynb)
 
+48. [Kaggle 競賽平台介紹](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_048_HW/Day_048_HW.ipynb)
+
+- [Data Science London + Scikit-learn](https://www.kaggle.com/c/data-science-london-scikit-learn/overview)
+
+
+
 
 
 
