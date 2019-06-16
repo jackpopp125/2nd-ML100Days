@@ -141,11 +141,11 @@
 
 - [Data Science London + Scikit-learn](https://www.kaggle.com/c/data-science-london-scikit-learn/overview)
 
+49. [集成方法 : 混合泛化(Blending)](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_049_HW/Day_049_HW.ipynb)
 
+50. [集成方法 : 堆疊泛化(Stacking)](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_050_HW/Day_050_HW.ipynb)
 
-
-
-
+51-53. [Kaggle 競賽平台介紹](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_051To053_HW/Day_051To053_HW.ipynb)
 
 ------------------------------------------
 
