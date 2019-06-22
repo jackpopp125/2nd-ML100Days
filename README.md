@@ -155,3 +155,8 @@
 
 - ## Tricks
 [Tricks](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Tricks/ML100_Tricks.ipynb)
+
+------------------------------------------
+
+from IPython.display import YouTubeVideo
+YouTubeVideo('v=iwh5o_M4BNU')
