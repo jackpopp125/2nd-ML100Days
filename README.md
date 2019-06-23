@@ -149,6 +149,22 @@
 
 ------------------------------------------
 
+- ## 5. 非監督式機器學習
+
+54. [clustering 1 非監督式機器學習簡介](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_054_HW/Day_054_HW.ipynb)
+
+- [李鴻毅 教學主頁] (http://speech.ee.ntu.edu.tw/~tlkagk/index.html)
+
+
+
+
+
+
+
+
+
+------------------------------------------
+
 - ## QA
 [QA](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/QA/ML100_QA.ipynb)
 
