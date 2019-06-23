@@ -155,7 +155,7 @@
 
 - [李鴻毅 教學主頁] (http://speech.ee.ntu.edu.tw/~tlkagk/index.html)
 
-55. [clustering ](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_055_HW/Day_055_HW.ipynb)
+55. [clustering 2 聚類算法](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_055_HW/Day_055_HW.ipynb)
 
 
 
