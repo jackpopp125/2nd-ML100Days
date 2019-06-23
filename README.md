@@ -157,6 +157,7 @@
 
 55. [clustering 2 聚類算法](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_055_HW/Day_055_HW.ipynb)
 
+56. [K-mean 觀察 : 使用輪廓分析](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_056_HW/Day_056_HW.ipynb)
 
 
 
