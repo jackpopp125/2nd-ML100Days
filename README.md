@@ -167,7 +167,7 @@
 
 60. [PCA 觀察 : 使用手寫辨識資料集](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_060_HW/Day_060_HW.ipynb)
 
-
+61. [dimension reduction 2 降維方法-T-SNE](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_061_HW/Day_061_HW.ipynb)
 
 
 
