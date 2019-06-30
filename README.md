@@ -171,7 +171,15 @@
 
 62. [t-sne 觀察 : 分群與流形還原](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_062_HW/Day_062_HW.ipynb)
 
+------------------------------------------
 
+- ## 6. 深度學習理論與實作
+
+63. [神經網路介紹](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_063_HW/Day_063_HW.ipynb)
+
+
+
+------------------------------------------
 
 ------------------------------------------
 
