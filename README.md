@@ -159,6 +159,13 @@
 
 56. [K-mean 觀察 : 使用輪廓分析](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_056_HW/Day_056_HW.ipynb)
 
+57. [clustering 3 階層分群算法](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_057_HW/Day_057_HW.ipynb)
+
+58. [階層分群法 觀察 : 使用 2D 樣版資料集](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_058_HW/Day_058_HW.ipynb)
+
+59. [dimension reduction 1 降維方法-主成份分析](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_059_HW/Day_059_HW.ipynb)
+
+60. [PCA 觀察 : 使用手寫辨識資料集](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_060_HW/Day_060_HW.ipynb)
 
 
 
