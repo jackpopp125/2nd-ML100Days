@@ -169,6 +169,8 @@
 
 61. [dimension reduction 2 降維方法-T-SNE](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_061_HW/Day_061_HW.ipynb)
 
+62. [t-sne 觀察 : 分群與流形還原](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_062_HW/Day_062_HW.ipynb)
+
 
 
 ------------------------------------------
