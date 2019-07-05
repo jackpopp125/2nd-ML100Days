@@ -177,9 +177,17 @@
 
 63. [神經網路介紹](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_063_HW/Day_063_HW.ipynb)
 
+64. [深度學習體驗 : 模型調整與學習曲線](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_064_HW/Day_064_HW.ipynb)
 
+65. [深度學習體驗 : 啟動函數與正規化](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_065_HW/Day_065_HW.ipynb)
 
 ------------------------------------------
+
+- ## 7. 初探深度學習使用Keras
+
+66. [Keras 安裝與介紹]
+
+
 
 ------------------------------------------
 
