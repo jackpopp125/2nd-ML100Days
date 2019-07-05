@@ -185,7 +185,7 @@
 
 - ## 7. 初探深度學習使用Keras
 
-66. [Keras 安裝與介紹]
+66. [Keras 安裝與介紹](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_066_HW/Day_066_HW.ipynb)
 
 
 
