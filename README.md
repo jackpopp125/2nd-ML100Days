@@ -101,6 +101,7 @@
 35. [regression vs. classification](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_035_HW/Day_035_HW.ipynb)
 - 迴歸問題與分類問題的定義
 - 多分類問題 vs 多標籤問題
+- change font style
 
 36. [評估指標選定/evaluation metrics](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_036_HW/Day_036_HW.ipynb)
 - Precision, Recall, F1 score, ROC AUC
