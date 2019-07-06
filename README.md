@@ -193,7 +193,7 @@
 
 68. [Keras Sequential API](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_068_HW/Day_068_HW.ipynb) - 序列模型搭建網路
 
-## 模型編譯 :
+##模型編譯 :
 - Optimizer
 - Loss
 - 評估指標
