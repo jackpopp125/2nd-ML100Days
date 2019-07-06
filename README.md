@@ -200,6 +200,20 @@
 
 69. [Keras Module API](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_069_HW/Day_069_HW.ipynb) - Keras Module API的介紹與應用
 
+70. [Multi-layer Perception多層感知](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_070_HW/Day_070_HW.ipynb) - MLP簡介
+
+#宣告採用序列模型
+model = Sequential()
+#建構輸入層
+model.add(Dense(units=256, 
+                input_dim=784, 
+                kernel_initializer='normal', 
+                activation='relu'))
+#建構輸出層
+model.add(Dense(units=10, 
+                kernel_initializer='normal', 
+                activation='softmax'))
+print(model.summary())
 
 
 
