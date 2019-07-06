@@ -187,12 +187,22 @@
 - ## 7. 初探深度學習使用Keras
 學習機器學習(ML)與深度學習( DL) 的好幫手
 
-
-
 66. [Keras 安裝與介紹](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_066_HW/Day_066_HW.ipynb) - 如何安裝 Keras 套件
 
+67. [Keras Dataset](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_067_HW/Day_067_HW.ipynb) - Keras embedded dataset的介紹與應用
 
-67. [Keras 安裝與介紹](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_067_HW/Day_067_HW.ipynb) - Keras embedded dataset的介紹與應用
+68. [Keras Sequential API](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_068_HW/Day_068_HW.ipynb) - 序列模型搭建網路
+
+- 模型編譯 :
+1. Optimizer
+2. Loss
+3. 評估指標
+
+
+
+
+
+
 
 
 ------------------------------------------
