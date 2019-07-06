@@ -184,8 +184,11 @@
 ------------------------------------------
 
 - ## 7. 初探深度學習使用Keras
+學習機器學習(ML)與深度學習( DL) 的好幫手
 
-66. [Keras 安裝與介紹]
+
+
+66. [Keras 安裝與介紹](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_066_HW/Day_066_HW.ipynb) - 如何安裝 Keras 套件
 
 
 
