@@ -198,7 +198,7 @@
 2. Loss
 3. 評估指標
 
-
+69. [Keras Module API](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_069_HW/Day_069_HW.ipynb) - Keras Module API的介紹與應用
 
 
 
