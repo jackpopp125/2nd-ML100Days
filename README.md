@@ -193,7 +193,10 @@
 
 68. [Keras 安裝與介紹](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_068_HW/Day_068_HW.ipynb) - 序列模型搭建網路
 
-
+- 模型編譯 :
+1. Optimizer
+2. Loss
+3. 評估指標
 
 
 
