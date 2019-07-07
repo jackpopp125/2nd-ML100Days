@@ -176,6 +176,8 @@
 
 - ## 6. 深度學習理論與實作
 
+### [tensorflow playground](https://pairlabs.ai/tensorflow-playground/index_tw.html#activation=tanh&regularization=L2&batchSize=10&dataset=spiral&regDataset=reg-plane&learningRate=0.3&regularizationRate=0.001&noise=0&networkShape=8&seed=0.27250&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=true&xSquared=true&ySquared=true&cosX=false&sinX=true&cosY=false&sinY=true&collectStats=false&problem=classification&initZero=false&hideText=false)
+
 63. [神經網路介紹](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_063_HW/Day_063_HW.ipynb)
 
 64. [深度學習體驗 : 模型調整與學習曲線](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_064_HW/Day_064_HW.ipynb)
@@ -187,7 +189,6 @@
 - ## 7. 初探深度學習使用Keras
 學習機器學習(ML)與深度學習( DL) 的好幫手
 
-[tensorflow playground](https://pairlabs.ai/tensorflow-playground/index_tw.html#activation=tanh&regularization=L2&batchSize=10&dataset=spiral&regDataset=reg-plane&learningRate=0.3&regularizationRate=0.001&noise=0&networkShape=8&seed=0.27250&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=true&xSquared=true&ySquared=true&cosX=false&sinX=true&cosY=false&sinY=true&collectStats=false&problem=classification&initZero=false&hideText=false)
 
 66. [Keras 安裝與介紹](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_066_HW/Day_066_HW.ipynb) - 如何安裝 Keras 套件
 
