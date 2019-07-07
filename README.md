@@ -226,7 +226,9 @@ model.add(Dense(units=10,
 print(model.summary())
 
 
-
+#[validation_split = 0.2] validation_split：在0和1之間浮動。用作驗證數據的訓練數據的比例。
+#該模型將訓練數據的這一部分分開，不會對其進行訓練，並將在每個時期結束時評估該數據的損失和任何模型指標。
+#[batch_size]：整數或None。每個梯度更新的樣本數。指定，batch_size為128
 
 
 ------------------------------------------
