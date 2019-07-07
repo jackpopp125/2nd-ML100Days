@@ -193,13 +193,34 @@
 
 68. [Keras Sequential API](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_068_HW/Day_068_HW.ipynb) - 序列模型搭建網路
 
-- 模型編譯 :
-1. Optimizer
-2. Loss
-3. 評估指標
+##模型編譯 :
+- Optimizer
+- Loss
+- 評估指標
+
 
 69. [Keras Module API](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_069_HW/Day_069_HW.ipynb) - Keras Module API的介紹與應用
 
+70. [Multi-layer Perception多層感知](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_070_HW/Day_070_HW.ipynb) - MLP簡介
+
+#宣告採用序列模型
+
+model = Sequential()
+
+#建構輸入層
+
+model.add(Dense(units=256, 
+                input_dim=784, 
+                kernel_initializer='normal', 
+                activation='relu'))
+
+#建構輸出層
+
+model.add(Dense(units=10, 
+                kernel_initializer='normal', 
+                activation='softmax'))
+
+print(model.summary())
 
 
 
