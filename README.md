@@ -231,6 +231,10 @@ print(model.summary())
 #[batch_size]：整數或None。每個梯度更新的樣本數。指定，batch_size為128
 
 
+
+71. [損失函數](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_071_HW/Day_071_HW.ipynb) - 損失函數的介紹與應用
+
+
 ------------------------------------------
 
 - ## QA
