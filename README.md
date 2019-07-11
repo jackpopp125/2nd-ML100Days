@@ -231,8 +231,16 @@ print(model.summary())
 #[batch_size]：整數或None。每個梯度更新的樣本數。指定，batch_size為128
 
 
-
 71. [損失函數](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_071_HW/Day_071_HW.ipynb) - 損失函數的介紹與應用
+
+72. [啟動函數](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_072_HW/Day_072_HW.ipynb) - 啟動函數的介紹與應用
+
+- [Reference 激活函數的圖示及其一階導數](https://dashee87.github.io/deep%20learning/visualising-activation-functions-in-neural-networks/) - 很酷的動畫，可以即時顯示 各 activation function 及其一階導數 的圖形
+
+
+
+
+
 
 
 ------------------------------------------
