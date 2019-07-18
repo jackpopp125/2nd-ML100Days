@@ -238,6 +238,10 @@ print(model.summary())
 - [Reference 激活函數的圖示及其一階導數](https://dashee87.github.io/deep%20learning/visualising-activation-functions-in-neural-networks/) - 很酷的動畫，可以即時顯示 各 activation function 及其一階導數 的圖形
 
 
+73. [梯度下降Gradient Descent](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_073_HW/Day_073_HW.ipynb) - 梯度下降Gradient Descent簡介
+
+- [圖解 Gradient Descent - PDF](https://github.com/jshuang0520/2nd-ML100Days/blob/master/homework/basic_PDF/Day_073.pdf) 
+
 
 
 
