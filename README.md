@@ -243,6 +243,14 @@ print(model.summary())
 - [圖解 Gradient Descent - PDF](https://github.com/jshuang0520/2nd-ML100Days/blob/master/homework/basic_PDF/Day_073.pdf) 
 
 
+74. [Gradient Descent 數學原理](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_074_HW/Day_074_HW.ipynb) - 介紹梯度下降的基礎數學原理
+
+75. [BackPropagation](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_075_HW/Day_075_HW.ipynb) - 反向式傳播簡介
+
+76. [優化器optimizers](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_076_HW/Day_076_HW.ipynb) - 優化器optimizers簡介
+
+- 我們發現用的最多的優化器是Adam
+
 
 
 
