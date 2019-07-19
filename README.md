@@ -206,24 +206,24 @@
 
 70. [Multi-layer Perception多層感知](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_070_HW/Day_070_HW.ipynb) - MLP簡介
 
-#宣告採用序列模型
+    #宣告採用序列模型
 
-model = Sequential()
+    model = Sequential()
 
-#建構輸入層
+    #建構輸入層
 
-model.add(Dense(units=256, 
-                input_dim=784, 
-                kernel_initializer='normal', 
-                activation='relu'))
+    model.add(Dense(units=256, 
+                    input_dim=784, 
+                    kernel_initializer='normal', 
+                    activation='relu'))
 
-#建構輸出層
+    #建構輸出層
 
-model.add(Dense(units=10, 
-                kernel_initializer='normal', 
-                activation='softmax'))
+    model.add(Dense(units=10, 
+                    kernel_initializer='normal', 
+                    activation='softmax'))
 
-print(model.summary())
+    print(model.summary())
 
 
 #[validation_split = 0.2] validation_split：在0和1之間浮動。用作驗證數據的訓練數據的比例。
