@@ -206,29 +206,29 @@
 
 70. [Multi-layer Perception多層感知](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_070_HW/Day_070_HW.ipynb) - MLP簡介
 
-#宣告採用序列模型
+    #宣告採用序列模型
 
-model = Sequential()
+    model = Sequential()
 
-#建構輸入層
+    #建構輸入層
 
-model.add(Dense(units=256, 
-                input_dim=784, 
-                kernel_initializer='normal', 
-                activation='relu'))
+    model.add(Dense(units=256, 
+                    input_dim=784, 
+                    kernel_initializer='normal', 
+                    activation='relu'))
 
-#建構輸出層
+    #建構輸出層
 
-model.add(Dense(units=10, 
-                kernel_initializer='normal', 
-                activation='softmax'))
+    model.add(Dense(units=10, 
+                    kernel_initializer='normal', 
+                    activation='softmax'))
 
-print(model.summary())
+    print(model.summary())
 
 
-#[validation_split = 0.2] validation_split：在0和1之間浮動。用作驗證數據的訓練數據的比例。
-#該模型將訓練數據的這一部分分開，不會對其進行訓練，並將在每個時期結束時評估該數據的損失和任何模型指標。
-#[batch_size]：整數或None。每個梯度更新的樣本數。指定，batch_size為128
+    #[validation_split = 0.2] validation_split：在0和1之間浮動。用作驗證數據的訓練數據的比例。
+    #該模型將訓練數據的這一部分分開，不會對其進行訓練，並將在每個時期結束時評估該數據的損失和任何模型指標。
+    #[batch_size]：整數或None。每個梯度更新的樣本數。指定，batch_size為128
 
 
 71. [損失函數](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_071_HW/Day_071_HW.ipynb) - 損失函數的介紹與應用
@@ -242,6 +242,14 @@ print(model.summary())
 
 - [圖解 Gradient Descent - PDF](https://github.com/jshuang0520/2nd-ML100Days/blob/master/homework/basic_PDF/Day_073.pdf) 
 
+
+74. [Gradient Descent 數學原理](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_074_HW/Day_074_HW.ipynb) - 介紹梯度下降的基礎數學原理
+
+75. [BackPropagation](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_075_HW/Day_075_HW.ipynb) - 反向式傳播簡介
+
+76. [優化器optimizers](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_076_HW/Day_076_HW.ipynb) - 優化器optimizers簡介
+
+- 我們發現用的最多的優化器是Adam
 
 
 
