@@ -252,6 +252,16 @@
 - 我們發現用的最多的優化器是Adam
 
 
+77. [訓練神經網路的細節與技巧 - Validation and overfit](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_077_HW/Day_077_HW.ipynb) - 檢視並了解 overfit 現象
+
+78. [訓練神經網路前的注意事項](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_078_HW/Day_078_HW.ipynb) - 資料是否經過妥善的處理？運算資源為何？超參數的設置是否正確？
+
+79. [訓練神經網路的細節與技巧 - Learning rate effect](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_079_HW/Day_079_HW.ipynb) - 比較不同 Learning rate 對訓練過程及結果的差異
+
+80. [[練習 Day] 優化器與學習率的組合與比較](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_080_HW/Day_080_HW.ipynb) - 練習時間：搭配不同的優化器與學習率進行神經網路訓練
+
+81. [訓練神經網路的細節與技巧 - Regularization](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_081_HW/Day_081_HW.ipynb) - 因應 overfit 的方法概述 - 正規化 (Regularization)
+
 
 
 
