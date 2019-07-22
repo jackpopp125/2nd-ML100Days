@@ -262,6 +262,8 @@
 
 81. [訓練神經網路的細節與技巧 - Regularization](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_081_HW/Day_081_HW.ipynb) - 因應 overfit 的方法概述 - 正規化 (Regularization)
 
+82. [訓練神經網路的細節與技巧 - Dropout](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_082_HW/Day_082_HW.ipynb) - 因應 overfit 的方法概述 - 隨機缺失 (Dropout)
+
 
 
 
