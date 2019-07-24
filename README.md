@@ -264,6 +264,13 @@
 
 82. [訓練神經網路的細節與技巧 - Dropout](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_082_HW/Day_082_HW.ipynb) - 因應 overfit 的方法概述 - 隨機缺失 (Dropout)
 
+83. [訓練神經網路的細節與技巧 - Batch normalization](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_083_HW/Day_083_HW.ipynb) - 因應 overfit 的方法概述 - 批次正規化 (Batch Normalization)
+
+84. [[練習 Day] 正規化/機移除/批次標準化的 組合與比較](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_084_HW/Day_084_HW.ipynb) - 練習時間：Hyper-parameters 大雜燴
+
+
+
+
 
 
 
