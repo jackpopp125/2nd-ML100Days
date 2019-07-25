@@ -268,6 +268,13 @@
 
 84. [[練習 Day] 正規化/機移除/批次標準化的 組合與比較](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_084_HW/Day_084_HW.ipynb) - 練習時間：Hyper-parameters 大雜燴
 
+85. [訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_085_HW/Day_085_HW.ipynb) - 因應 overfit 的方法概述 - 悔不當初的煞車機制 (EarlyStopping)
+
+86. [訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_086_HW/Day_086_HW.ipynb) - 使用 Keras 內建的 callback 函數儲存訓練完的模型
+
+87. [訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_087_HW/Day_087_HW.ipynb) - 使用 Keras 內建的 callback 函數做學習率遞減
+
+
 
 
 
