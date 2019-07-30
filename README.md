@@ -281,6 +281,14 @@
 
 
 
+
+
+92. [卷積神經網路 (Convolution Neural Network, CNN) 簡介](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_092_HW/Day_092_HW.ipynb) - 了解CNN的重要性, 以及CNN的組成結構
+
+- [Day_092_PDF Convolution Neural Network](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/basic_PDF/Day_092.pdf)
+
+
+
 ------------------------------------------
 
 - ## QA
