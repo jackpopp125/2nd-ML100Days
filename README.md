@@ -274,14 +274,13 @@
 
 87. [訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_087_HW/Day_087_HW.ipynb) - 使用 Keras 內建的 callback 函數做學習率遞減
 
+88. [訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函數](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_088_HW/Day_088_HW.ipynb)
 
+89. [訓練神經網路的細節與技巧 - 撰寫自己的 Loss function](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_089_HW/Day_089_HW.ipynb) - 瞭解如何撰寫客製化的損失函數，並用在模型訓練上
 
+90. [使用傳統電腦視覺與機器學習進行影像辨識](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_090_HW/Day_090_HW.ipynb) - 了解在神經網路發展前，如何使用傳統機器學習演算法處理影像辨識
 
-
-
-
-
-
+91. [[練習 Day] 使用傳統電腦視覺與機器學習進行影像辨識](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_091_HW/Day_091_HW.ipynb) - 應用傳統電腦視覺方法＋機器學習進行 CIFAR-10 分類
 
 92. [卷積神經網路 (Convolution Neural Network, CNN) 簡介](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_092_HW/Day_092_HW.ipynb) - 了解CNN的重要性, 以及CNN的組成結構
 
