@@ -286,8 +286,13 @@
 
 - [Day_092_PDF Convolution Neural Network](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/basic_PDF/Day_092.pdf)
 
+93. [卷積神經網路架構細節](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_093_HW/Day_093_HW.ipynb) - 為什麼比DNN更適合處理影像問題, 以及Keras上如何實作CNN
 
+- [Day_093_PDF 卷積神經網路路架構細節](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/basic_PDF/Day_093.pdf)
 
+94. [卷積神經網路 - 卷積(Convolution)層與參數調整](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_094_HW/Day_094_HW.ipynb) - 卷積層原理與參數說明
+
+- [Day_094_PDF 卷積神經網路路 - 卷積(Convolution)層與參參數調整](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/basic_PDF/Day_094.pdf)
 ------------------------------------------
 
 - ## QA
