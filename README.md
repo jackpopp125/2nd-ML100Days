@@ -294,6 +294,12 @@
 
 - [Day_094_PDF 卷積神經網路路 - 卷積(Convolution)層與參參數調整](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/basic_PDF/Day_094.pdf)
 
+[[機器學習 ML NOTE]Convolution Neural Network 卷積神經網路](https://medium.com/%E9%9B%9E%E9%9B%9E%E8%88%87%E5%85%94%E5%85%94%E7%9A%84%E5%B7%A5%E7%A8%8B%E4%B8%96%E7%95%8C/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-ml-note-convolution-neural-network-%E5%8D%B7%E7%A9%8D%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF-bfa8566744e9)
+
+![img201908020920](https://miro.medium.com/max/700/1*Wb5a_EQyGRCC080gzof6WQ.png)
+
+
+[Visualizing parts of Convolutional Neural Networks using Keras and Cats](https://hackernoon.com/visualizing-parts-of-convolutional-neural-networks-using-keras-and-cats-5cc01b214e59)
 
 ## Recap
 
