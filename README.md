@@ -321,6 +321,10 @@ Three main types of layers in CNNs: Convolutional, Pooling, Activation
 
 ![img20](https://hackernoon.com/hn-images/1*rIiBaH5IMVPaE5BM-n7VZw.png)
 
+![img22](https://theffork.com/wp-content/uploads/2019/02/final.png)
+
+![img21](https://imgcrack.com/files/onxqaov5w76.png)
+
 
 
 
