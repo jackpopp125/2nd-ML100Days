@@ -293,6 +293,38 @@
 94. [卷積神經網路 - 卷積(Convolution)層與參數調整](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_094_HW/Day_094_HW.ipynb) - 卷積層原理與參數說明
 
 - [Day_094_PDF 卷積神經網路路 - 卷積(Convolution)層與參參數調整](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/basic_PDF/Day_094.pdf)
+
+
+## Recap
+
+Three main types of layers in CNNs: Convolutional, Pooling, Activation
+
+> <font color="red">1. Convolutional layers multiply kernel value by the image window and optimize the kernel weights over time using gradient descent</font>
+
+
+> <font color="red">2. Pooling layers describe a window of an image using a single value which is the max or the average of that window</font>
+
+
+> <font color="red">3. Activation layers squash the values into a range, typically [0,1] or [-1,1]</font>
+
+
+
+![img20-0](https://hackernoon.com/hn-images/1*ZCjPUFrB6eHPRi4eyP6aaA.gif)
+
+![img20-1](https://hackernoon.com/hn-images/1*Feiexqhmvh9xMGVVJweXhg.gif)
+
+![img20](https://hackernoon.com/hn-images/1*rIiBaH5IMVPaE5BM-n7VZw.png)
+
+
+
+
+
+
+
+
+
+
+
 ------------------------------------------
 
 - ## QA
