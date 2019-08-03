@@ -335,7 +335,9 @@ Three main types of layers in CNNs: Convolutional, Pooling, Activation
 ![img21](https://imgcrack.com/files/onxqaov5w76.png)
 
 
+95. [卷積神經網路 - 池化(Pooling)層與參數調整](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_095_HW/Day_095_HW.ipynb) - 池化層原理與參數說明
 
+- [Day_095_PDF 卷積神經網路 - 卷積(Convolution)層與參數調整](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/basic_PDF/Day_095.pdf)
 
 
 
