@@ -293,6 +293,48 @@
 94. [卷積神經網路 - 卷積(Convolution)層與參數調整](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_094_HW/Day_094_HW.ipynb) - 卷積層原理與參數說明
 
 - [Day_094_PDF 卷積神經網路路 - 卷積(Convolution)層與參參數調整](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/basic_PDF/Day_094.pdf)
+
+[[機器學習 ML NOTE]Convolution Neural Network 卷積神經網路](https://medium.com/%E9%9B%9E%E9%9B%9E%E8%88%87%E5%85%94%E5%85%94%E7%9A%84%E5%B7%A5%E7%A8%8B%E4%B8%96%E7%95%8C/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-ml-note-convolution-neural-network-%E5%8D%B7%E7%A9%8D%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF-bfa8566744e9)
+
+![img201908020920](https://miro.medium.com/max/700/1*Wb5a_EQyGRCC080gzof6WQ.png)
+
+
+[Visualizing parts of Convolutional Neural Networks using Keras and Cats](https://hackernoon.com/visualizing-parts-of-convolutional-neural-networks-using-keras-and-cats-5cc01b214e59)
+
+## Recap
+
+Three main types of layers in CNNs: Convolutional, Pooling, Activation
+
+> <font color="red">1. Convolutional layers multiply kernel value by the image window and optimize the kernel weights over time using gradient descent</font>
+
+
+> <font color="red">2. Pooling layers describe a window of an image using a single value which is the max or the average of that window</font>
+
+
+> <font color="red">3. Activation layers squash the values into a range, typically [0,1] or [-1,1]</font>
+
+
+
+![img20-0](https://hackernoon.com/hn-images/1*ZCjPUFrB6eHPRi4eyP6aaA.gif)
+
+![img20-1](https://hackernoon.com/hn-images/1*Feiexqhmvh9xMGVVJweXhg.gif)
+
+![img20](https://hackernoon.com/hn-images/1*rIiBaH5IMVPaE5BM-n7VZw.png)
+
+![img22](https://theffork.com/wp-content/uploads/2019/02/final.png)
+
+![img21](https://imgcrack.com/files/onxqaov5w76.png)
+
+
+
+
+
+
+
+
+
+
+
 ------------------------------------------
 
 - ## QA
