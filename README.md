@@ -363,11 +363,8 @@ YouTubeVideo('iwh5o_M4BNU')
 
 ------------------------------------------
 
-## 一百天過後，除了hahow上運用深度學習來選股的課、李鴻毅老師的系列課，也必須把下列標為每日一讀！
+#### <font color="red">一百天過後，除了hahow上運用深度學習來選股的課、李鴻毅老師的系列課，kaggle kernel，也必須把下列標為每日一讀！</font>
 
-## [leemeng的個人網頁](https://leemeng.tw/index.html#home)
-
-## [See My Latest Projects](https://demo.leemeng.tw/)
-
+## [leemeng的個人網頁](https://leemeng.tw/index.html#home) - [See My Latest Projects](https://demo.leemeng.tw/)
 
 https://demo.leemeng.tw/
