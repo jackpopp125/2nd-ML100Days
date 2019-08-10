@@ -340,8 +340,29 @@ Three main types of layers in CNNs: Convolutional, Pooling, Activation
 - [Day_095_PDF 卷積神經網路 - 卷積(Convolution)層與參數調整](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/basic_PDF/Day_095.pdf)
 
 
+96. [Keras 中的 CNN layers](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_096_HW/Day_096_HW.ipynb) - 介紹 Keras 中常用的 CNN layers
+
+- [Keras 中的 CNN layers](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/basic_PDF/Day_096.pdf)
 
 
+97. [使用 CNN 完成 CIFAR-10 資料集](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_097_HW/Day_097_HW.ipynb) - 透過 CNN 訓練 CIFAR-10 並比較其與 DNN 的差異
+
+- [使⽤用 CNN 完成 Cifar-10 資料集](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/basic_PDF/Day_097.pdf)
+
+
+98. [訓練卷積神經網路的細節與技巧 - 處理大量數據](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_098_HW/Day_098_HW.ipynb) - 資料無法放進記憶體該如何解決？如何使用 Python 的生成器 generator?
+
+- [訓練卷積神經網路的細節與技巧 - 處理大量數據](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/basic_PDF/Day_098.pdf)
+
+
+99. [訓練卷積神經網路的細節與技巧 - 處理小量數據](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_099_HW/Day_099_HW.ipynb) - 資料太少準確率不高怎麼辦？如何使用資料增強提升準確率？
+
+- [訓練卷積神經網路的細節與技巧 - 處理小量數據](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/basic_PDF/Day_099.pdf)
+
+
+100. [訓練卷積神經網路的細節與技巧 - 轉移學習 (Transfer learning)](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_100_HW/Day_100_HW.ipynb) - 何謂轉移學習 Transfer learning？該如何使用？
+
+- [訓練卷積神經網路的細節與技巧 - 轉移學習 (Transfer learning)](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/basic_PDF/Day_100.pdf)
 
 
 
