@@ -250,7 +250,7 @@
 
 - 自訂 Loss Function
 
-# compile model (模型編譯)
+#### compile model (模型編譯)
 
 在訓練模型之前，您需要配置學習過程，的英文這通過compile方法完成的它接收三個參數：
 
