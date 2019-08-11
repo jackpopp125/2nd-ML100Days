@@ -204,11 +204,11 @@
 
 69. [Keras Module API](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_069_HW/Day_069_HW.ipynb) - Keras Module API的介紹與應用
 
-新聞標題 (文字應用的NN)
-  from keras.layers import Input, Dense
-  from keras.layers import Embedding  # Embedding 層將輸入序列編碼為一個稠密向量的序列
-  from keras.layers import LSTM       # LSTM 層把向量序列轉換成單個向量，它包含整個序列的上下文信息
-  from keras.models import Model
+    新聞標題 (文字應用的NN)
+    from keras.layers import Input, Dense
+    from keras.layers import Embedding  # Embedding 層將輸入序列編碼為一個稠密向量的序列
+    from keras.layers import LSTM       # LSTM 層把向量序列轉換成單個向量，它包含整個序列的上下文信息
+    from keras.models import Model
 
 
 
