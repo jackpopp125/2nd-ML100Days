@@ -248,6 +248,27 @@
 
 71. [損失函數](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_071_HW/Day_071_HW.ipynb) - 損失函數的介紹與應用
 
+- 自訂 Loss Function
+
+# compile model (模型編譯)
+
+在訓練模型之前，您需要配置學習過程，的英文這通過compile方法完成的它接收三個參數：
+
+1. Optimizer
+
+    優化器optimizer。它可以是現有優化器的字符串標識符，如rmsprop或adagrad，也可以是Optimizer類的實例。
+
+2. Loss
+
+    損失函數的損失，模型試圖最小化的目標函數它可以是現有損失函數的字符串標識符，如。categorical_crossentropy或mse，也可以是一個目標函數
+
+3. metrics 評估指標
+
+    評估標準指標。對於任何分類問題，你都希望將其設置為metrics = ['accuracy']。評估標準可以是現有的標準的字符串標識符，也可以是自定義的評估標準函數。
+
+
+
+
 72. [啟動函數](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_072_HW/Day_072_HW.ipynb) - 啟動函數的介紹與應用
 
 - [Reference 激活函數的圖示及其一階導數](https://dashee87.github.io/deep%20learning/visualising-activation-functions-in-neural-networks/) - 很酷的動畫，可以即時顯示 各 activation function 及其一階導數 的圖形
