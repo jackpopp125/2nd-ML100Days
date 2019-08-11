@@ -204,6 +204,21 @@
 
 69. [Keras Module API](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_069_HW/Day_069_HW.ipynb) - Keras Module API的介紹與應用
 
+    新聞標題 (文字應用的NN)
+    
+    from keras.layers import Input, Dense
+    
+    from keras.layers import Embedding  # Embedding 層將輸入序列編碼為一個稠密向量的序列
+    
+    from keras.layers import LSTM       # LSTM 層把向量序列轉換成單個向量，它包含整個序列的上下文信息
+    
+    from keras.models import Model
+
+
+
+
+
+
 70. [Multi-layer Perception多層感知](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_070_HW/Day_070_HW.ipynb) - MLP簡介
 
     #宣告採用序列模型
@@ -232,6 +247,27 @@
 
 
 71. [損失函數](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_071_HW/Day_071_HW.ipynb) - 損失函數的介紹與應用
+
+- 自訂 Loss Function
+
+#### compile model (模型編譯)
+
+在訓練模型之前，您需要配置學習過程，的英文這通過compile方法完成的它接收三個參數：
+
+1. Optimizer
+
+    優化器optimizer。它可以是現有優化器的字符串標識符，如rmsprop或adagrad，也可以是Optimizer類的實例。
+
+2. Loss
+
+    損失函數的損失，模型試圖最小化的目標函數它可以是現有損失函數的字符串標識符，如。categorical_crossentropy或mse，也可以是一個目標函數
+
+3. metrics 評估指標
+
+    評估標準指標。對於任何分類問題，你都希望將其設置為metrics = ['accuracy']。評估標準可以是現有的標準的字符串標識符，也可以是自定義的評估標準函數。
+
+
+
 
 72. [啟動函數](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_072_HW/Day_072_HW.ipynb) - 啟動函數的介紹與應用
 
