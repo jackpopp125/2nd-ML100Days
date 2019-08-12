@@ -1,0 +1,384 @@
+Welcome to Part 2 - Convolutional Neural Networks
+第 8 節，35 講座
+Welcome to Part 2 - Convolutional Neural Networks!
+
+In this part you will learn:
+
+1. The Intuition of CNNs
+
+2. How to build an CNN
+
+3. How to predict what is inside a single image (Homework Challenge)
+
+4. How to improve a CNN
+
+Enjoy Deep Learning!
+
+
+-------------------------------------------------------------------------------
+
+What You'll Need for CNN
+第 9 節，36 講座
+If you want to add more value to this section, we recommend checking out:
+
+The Ultimate Guide to Convolutional Neural Networks
+( https://www.superdatascience.com/the-ultimate-guide-to-convolutional-neural-networks-cnn/ )
+
+&
+
+The Ultimate Guide to Convolutional Neural Networks - Full Course Powerpoint Presentation
+( https://www.superdatascience.com/ppt-the-ultimate-guide-to-convolutional-neural-networks-cnn/ )
+
+
+These resources will compliment this course, so we hope you enjoy!
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------
+
+
+
+
+Max Pooling 的優點 :
+透過那個 Pooling 的 blue box 以達到
+1. 既能減少特徵 (減少計算量，對於DL來說相當重要!)
+2. 又能保留重要特徵
+(圖片旋轉或經過什麼處理之後，Max Pooling還是能大致抓到那些重要的特徵的位置)
+3. 透過上述兩點，能避免overfitting !!!
+
+
+
+
+
+-------------------------------------------------------------------------------
+
+
+
+
+Installing Keras
+第 10 節，47 講座
+Hi guys,
+
+If you haven't installed Keras yet, please find below the installation instructions:
+
+Linux and Max users, please open your terminal.
+On Mac, the easiest way to open it is to press anywhere cmd + space, and then in the Spotlight Search you enter "terminal".
+On Linux, you will find it very easily, usually on the left side of your monitor.
+Then inside the terminal, copy-paste and enter the following line command:
+
+conda install -c conda-forge keras
+And Windows users, please open the anaconda prompt, which you can find this way:
+Windows Button in the lower left corner -> List of programs -> anaconda -> anaconda prompt
+Then inside the anaconda prompt, copy-paste and enter the following line command:
+
+conda install -c conda-forge keras
+Enjoy Deep Learning!
+
+
+
+
+
+-------------------------------------------------------------------------------
+
+
+
+==========================
+CH 8 Building a CNN
+==========================
+
+# Convolutional Neural Network
+
+# Installing Theano
+# pip install --upgrade --no-deps
+
+#Installing Tensorflow
+# Installing Tenserflow from the website
+
+# Installing Keras
+# pip install --upgrade keras
+
+
+
+# Part 1 - Building the CNN
+
+# Importing the Keras libraries and packages
+from keras.models import Sequential    ### To initialize a sequence of layers of nerual networks (CNN) 
+from keras.layers import Convolution2D ### 2D for images; 3D for videos (加上 time 的那一個維度)
+from keras.layers import Flatten
+from keras.layers import Dense         ### For fully connected layers (ANN)
+
+# Initializing the CNN
+classifier = Sequential()
+
+# Step 1 - Convolution (每一張 Feature Map 都是一個從照片萃取出的特徵)
+### Convolution2D(32, 3, 3) 代表 將要用 32 個 [3(rows) x 3(columns)] 的 Feature Detecter ， 也意味著會產生 32 個 Feature Maps
+### input_shape : shape of input image, force them to have the same format; decide one fixed size of the input image，每一張圖片畫素不可能一樣大(同一支手機就有HDR跟普通的，解析度就不同了，當然也有直拍根橫拍，相片的長寬比不一樣等等)，所以要統一 input_shape
+### input_shape = (64, 64, 3) 代表 將要用 3 個 channel (R,G,B), [64 x 64 pixles] 當作 one fixed size of the input image，在spyder看到input_shape = (3, 64, 64)因為是Theano的註解，這裡輸入input_shape = (64, 64, 3)因為我們用的是Tensorflow package
+
+clasifier.add(Convolution2D(32, 3, 3, input_shape = (64, 64, 3), activation  = 'relu'))  
+
+
+# Step 2 - Pooling
+clasifier.add(MaxPooling2D(pool_size = (2, 2)))
+
+
+#--------------------------------------------------------
+#===================================================================================================
+# CNN Tuning : 
+# 1. 做出 "Deeper" Learning : 不是增加 Convolutional Layer 就是增加 Fully Connection Layer !
+# 2. 訓練參數 target_size : 用不只(64, 64)去訓練，用更高的pixels去訓練(會增加計算量 會更久 但效果應該會更好)
+#===================================================================================================
+#Adding a second convolutional layer
+clasifier.add(Convolution2D(32, 3, 3), activation  = 'relu'))  
+clasifier.add(MaxPooling2D(pool_size = (2, 2)))
+#--------------------------------------------------------
+
+# Step 3 - Flattening
+clasifier.add(Flatten())
+
+# Step 4 - Fully Connected Layer
+clasifier.add(Dense(output_dim = 128, activation = 'relu'))  ### Hidden Layer
+clasifier.add(Dense(output_dim = 1, activation = 'sigmoid')) ### Output Layer (binary classification --> 'sigmoid' ; 三個類別以上的分類問題 --> 'softmax')
+
+
+# Compiling the CNN  (Loss Funtion of (binary classification problem) CNN : binary_crossentropy)
+classifier.compile(optimizer = 'adam', loss = 'binary_crossentropy', metrics = ['accuracy'])  ### loss = 'catagorical_crossentropy' for 三個類別以上的分類問題 
+
+
+
+
+
+
+
+## ------------------------------------
+## google : keras document -> image preprocessing -> methods -> ctrl+F : Example of using .flow_from_directory(directory)
+## https://keras.io/preprocessing/image/#imagedatagenerator-methods
+## ------------------------------------
+# Part 2 - Fitting the CNN to the images
+from keras.preprocessing.image import ImageDataGenerator
+
+train_datagen = ImageDataGenerator(
+        rescale=1./255,
+        shear_range=0.2,
+        zoom_range=0.2,
+        horizontal_flip=True)
+
+test_datagen = ImageDataGenerator(rescale=1./255)
+
+training_set = train_datagen.flow_from_directory(
+        'dataset/training_set',
+        target_size=(64, 64),
+        batch_size=32,
+        class_mode='binary')
+
+test_set = test_datagen.flow_from_directory(
+        'dataset/test_set',
+        target_size=(64, 64),
+        batch_size=32,
+        class_mode='binary')
+
+classifier.fit_generator(
+        training_set,
+        steps_per_epoch=8000,
+        epochs=25,
+        validation_data=test_set,
+        validation_steps=2000)
+
+
+
+
+
+# Part 3 - Making new predictions
+
+import numpy as np
+from keras.preprocessing import image
+test_image = image.load_img('dataset/single_prediction/cat_or_dog_1', target_size = (64, 64))
+test_image = image.img_to_array(test_image)
+test_image = np.expand_dims(test_image, axis = 0) # 因為本來圖片只有3D (R,G,B)，如果不單張圖片不拓展 "epoch" 的那個維度，等等丟下去訓練的時候會出現維度錯誤所以不能訓練喔!
+
+result = classifier,predict(test_image)
+training_set.class_indicies
+
+if result[0][0] == 1 :
+    prediction = "dog"
+else :
+    prediction = "cat"
+
+
+
+-------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+Homework Instruction
+第 11 節，59 講座
+Homework Instruction
+
+
+
+Take a picture of your dog or your cat and use our CNN model to predict what it is.
+
+If you don't have a dog or a cat, no worries you can still do the Homework. I have provided in the dataset folder a new subfolder called "single_prediction" that contains one image of a dog and one image of a cat. Use our CNN model to predict what these images are.
+
+The solution is provided in the next Lecture but I strongly recommend that you try to solve it on your own. Deep Learning scientists spend most of their time experimenting with their model, whether they need to look for solutions online or not. So even if we have not covered how to make a single prediction yet, try to figure it out on your own, that will be excellent practice for you.
+
+
+
+Enjoy Deep Learning!
+
+
+
+
+
+
+-------------------------------------------------------------------------------
+
+
+
+
+
+
+Homework Challenge - Get the gold medal
+第 12 節，61 講座
+Homework Instruction
+
+
+
+Evaluation was already made during the training with the validation set, therefore k-Fold Cross Validation is not needed.
+
+Then the techniques to improve and tune a CNN model are the same as for ANNs. So here is the challenge:
+
+Apply the techniques you've learnt and use your architect power to make a CNN that will give you the gold medal:
+
+Bronze medal: Test set accuracy between 80% and 85%
+
+Silver medal: Test set accuracy between 85% and 90%
+
+Gold medal: Test set accuracy over 90%!!
+
+Rules:
+
+- Use the same training set
+
+- Dropout allowed
+
+- Customized SGD allowed
+
+- Specific seeds not allowed
+
+Tips will be provided soon.
+
+
+
+Enjoy Deep Learning!
+
+
+
+
+
+
+-------------------------------------------------------------------------------
+
+
+
+
+
+
+
+Homework Challenge Solution - Get the gold medal
+第 12 節，62 講座
+Check out these awesome solutions with over 90% accuracies!!
+
+https://www.udemy.com/deeplearning/learn/v4/questions/2276518
+
+Huge congrats to Apostolos and Tuatini!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
