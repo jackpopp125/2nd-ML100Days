@@ -439,6 +439,13 @@ YouTubeVideo('iwh5o_M4BNU')
 
 ------------------------------------------
 
+#### 演算法
+
+- [SVM1](https://www.itread01.com/content/1544347819.html)
+- [SVM2](https://www.zhihu.com/question/21094489)
+
+------------------------------------------
+
 #### <font color="red">一百天過後，除了hahow上運用深度學習來選股的課、李鴻毅老師的系列課，kaggle kernel，也必須把下列標為每日一讀！</font>
 
 ## [leemeng的個人網頁](https://leemeng.tw/index.html#home) - [See My Latest Projects](https://demo.leemeng.tw/)
