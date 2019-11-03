@@ -426,9 +426,16 @@ Three main types of layers in CNNs: Convolutional, Pooling, Activation
 
 ------------------------------------------
 
+影片嵌入
+
 from IPython.display import YouTubeVideo
 
 YouTubeVideo('iwh5o_M4BNU')
+
+
+圖片嵌入
+
+![image](attachment:image.png)
 
 ------------------------------------------
 
