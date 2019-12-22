@@ -407,6 +407,8 @@ Three main types of layers in CNNs: Convolutional, Pooling, Activation
 
 - [訓練卷積神經網路的細節與技巧 - 處理小量數據](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/basic_PDF/Day_099.pdf)
 
+(Day_099 用 HTML 表格 markdown)
+
 
 100. [訓練卷積神經網路的細節與技巧 - 轉移學習 (Transfer learning)](https://nbviewer.jupyter.org/github/jshuang0520/2nd-ML100Days/blob/master/homework/Day_100_HW/Day_100_HW.ipynb) - 何謂轉移學習 Transfer learning？該如何使用？
 
